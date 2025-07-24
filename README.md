@@ -16,6 +16,7 @@ These tools allow you to:
   - [bo5.js](#bo5js)
 - [How to Run](#how-to-run)
 - [Requirements](#requirements)
+- [Webscraping](#webscraping)
 
 ## 🗂 Overview
 
@@ -89,6 +90,17 @@ Updates the lower final matches in each selected tournament to be best-of-five (
 1. Open `bo5.js`
 2. Copy, paste into the console, and press **Enter**
 3. Select databases to update via prompt
+
+## Webscraping
+
+`scrape.js` is the file I used to scrape the data for T2 players. You add/remove any league you want and scrape it on your own. 
+
+Just install puppeteer, and you'll be good to go.
+
+Limitations:
+1. Inaccurate stat calculations
+2. Unable to get player's real age
+3. Will file players as flag International if thats their flag set on VLR, which kind of breaks them on ValSim since that isn't a real flag
 
 ## 🧼 Notes
 
