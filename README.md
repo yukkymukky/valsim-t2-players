@@ -97,6 +97,8 @@ Updates the lower final matches in each selected tournament to be best-of-five (
 
 Just install puppeteer, and you'll be good to go.
 
+It was also meant for multiple stage scraping...but I didn't go through with it, and that part of the code is still there even though it does nothing lol....
+
 Limitations:
 1. Inaccurate stat calculations
 2. Unable to get player's real age
