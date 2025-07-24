@@ -5,7 +5,7 @@ This repository contains a set of utility scripts for modifying ValSim databases
 These tools allow you to:
 - Inject T2 player data directly from GitHub
 - Clean up duplicate players based on stats
-- Convert playoff lower finasl t best-of-five (Bo5) format---
+- Convert playoff lower finals to best-of-five (Bo5) format
 
 ## 🧠 Table of Contents
 
