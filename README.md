@@ -69,7 +69,7 @@ Updates the lower final matches in each selected tournament to be best-of-five (
 ## ▶️ How to Run
 
 ### 1. Open Your Browser DevTools
-- Navigate to the site using `ValSim-*` IndexedDB databases
+- Navigate to the site
 - Press `F12` or `Ctrl+Shift+I` (Windows) / `Cmd+Opt+I` (Mac) to open Developer Tools
 - Go to the **Console** tab
 
